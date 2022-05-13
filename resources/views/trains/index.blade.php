@@ -14,7 +14,7 @@
                                 <p class="card-text"><h4 class="text-danger">Stazione di arrivo: <span>{{$train->stazione_di_arrivo}}</span></h4></p>
                                 <p class="card-text"><h4 class="text-danger">Data corsa: <span>{{$train->date}}</span></h4></p>
                                 <p class="card-text"><h4 class="text-danger">Orario di partenza: <span>{{$train->orario_di_partenza}}</span></h4></p>
-                                <p class="card-text"><h4 class="text-danger">Orario di arrivo: <span>{{$train->orario_di_partenza}}</span></h4></p>
+                                <p class="card-text"><h4 class="text-danger">Orario di arrivo: <span>{{$train->orario_di_arrivo}}</span></h4></p>
                                 <p class="card-text"><h4 class="text-danger">Codice treno: <span>{{$train->codice_treno}}</span></h4></p>
                                 <p class="card-text"><h4 class="text-danger">Numero di carroze: <span>{{$train->numero_carrozze}}</span></h4></p>
                                 <p class="card-text"><h4 class="text-danger">Tratta cancellata: <span>{{$train->cancellato}}</span></h4></p>

@@ -12173,3 +12173,12 @@ fieldset:disabled .btn {
   }
 }
 
+.my-card {
+  width: 500px;
+}
+
+.my-card span {
+  color: black;
+  margin-left: 1rem;
+}
+

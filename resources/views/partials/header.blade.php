@@ -1,5 +1,5 @@
-<nav class="navbar navbar-light bg-light">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">HomePage</a>
+<nav class="navbar navbar-light my-header">
+    <div class="container-fluid justify-content-center">
+        <a class="navbar-brand fs-4" href="#">HomePage Trains</a>
     </div>
 </nav>

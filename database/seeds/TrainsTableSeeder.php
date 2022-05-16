@@ -21,7 +21,7 @@ class TrainsTableSeeder extends Seeder
             $newTrain->numero_carrozze = $faker->numberBetween(0,50);
             $newTrain->in_orario = $faker->dateTime();
             $newTrain->cancellato = $faker->boolean();
-            $newTrain->date = $faker->date('Y-m-d', '3001-06-4');
+            $newTrain->date = $faker->date('Y-m-d', '2023-06-04');
             $newTrain->save();
         }
     }
